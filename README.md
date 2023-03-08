@@ -13,7 +13,7 @@ The implementation includes a Jupyter Notebook file, which demonstrates how to u
 
 ### How to use
 1. Clone the repository to your local machine using git clone `https://github.com/Userfound404/Tic-Tac-Toe-with-Monte-Carlo-Tree-Search.git`
-2. Open the TicTacToe.ipynb file using Jupyter Notebook.
+2. Open the `TicTacToe.ipynb` file using Jupyter Notebook.
 3. Run the notebook cell by cell to see how the MCTS algorithm works.
 4. You can also modify the code to experiment with different parameters and see how it affects the performance of the algorithm.
 
