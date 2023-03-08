@@ -28,4 +28,4 @@ The MCTS class implements the MCTS algorithm for Tic-Tac-Toe. The play method ta
 ### demo 
 ![image](https://user-images.githubusercontent.com/97509220/223643003-d4f9d3c7-a5b0-4807-ab78-13baf3a22e96.png)
 
-This code is part of the original repositary - https://github.com/foersterrobert/AlphaZeroFromScratch
+This code is part of the original repository - https://github.com/foersterrobert/AlphaZeroFromScratch
