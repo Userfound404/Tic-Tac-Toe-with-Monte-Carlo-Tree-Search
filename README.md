@@ -6,7 +6,9 @@ The implementation includes a Jupyter Notebook file, which demonstrates how to u
 
 ### Requirements
 *Python 3
+
 *Jupyter Notebook
+
 *Numpy
 
 ### How to use
